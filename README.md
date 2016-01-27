@@ -1,5 +1,6 @@
 How to share data with a statistician
 ===========
+(Forked from the coursera course on data science -dwmc)
 
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
